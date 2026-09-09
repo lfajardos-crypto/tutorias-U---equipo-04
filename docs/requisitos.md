@@ -2,12 +2,13 @@
 Funcionales:
 
 
-Campo 
+|Campo |
 ----
-Contenido 
------
-ID 
-RF-001
+|Contenido| 
+----
+|ID|
+---
+|RF-001|
 Nombre
 Consultar disponibilidad de horarios 
 Actor 
